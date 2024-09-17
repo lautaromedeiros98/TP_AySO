@@ -1,0 +1,113 @@
+history
+clear
+git status
+ls
+cd repogit
+ls
+cd repo_arc_so/
+git status
+clear
+git commit -m 'Primer commit clase 03/09/2024'
+git push
+clear
+git push origin 
+clear
+git config --global user.email "lautaromedeiros98@gmail.com"
+git config --global user.name "lautaromedeiros98"
+clear
+git status
+git push origin 
+clear
+git init
+git push origin 
+exit
+ls
+clear
+ls
+whoami
+cd repogit
+clear
+ls
+git clone https://github.com/lautaromedeiros98/repo_arc_so
+ls
+clear
+cd repo_arc_so/
+clear
+ls
+history
+history > history.txt
+clear
+ls
+git status
+clear
+git add .
+git commit -m 'Primer commit clase 03-09-2024'
+git config --global user.email lautaromedeiros98@gmail.com
+git config --global user.name lautaromedeiros98
+clear
+git commit -m 'Primer commit c
+git commit -m 'Primer commit clase 03-09-2024'
+clear
+ssh-keygen -t ed25516
+ssh-keygen -t ed25519
+ls
+clear
+ls -l
+ls -la
+ls
+clear
+ls -a
+cd .ssh
+ls
+clear
+ls
+cat id_ed25519.pub
+cd ..
+ls
+clear
+cd repogit
+ls
+cear
+clear
+ls
+cd repo_arc_so
+clear
+ls
+git status
+clear
+ls a
+ls -a
+clear
+cd ...
+cd ..
+clear
+ls 
+rm -r repo_arc_so/
+clear
+ls
+sudo rm -r repo_arc_so/
+clear
+ls
+git clone https://github.com/lautaromedeiros98/repo_arc_so.git~
+git clone https://github.com/lautaromedeiros98/repo_arc_so
+ls
+clear
+sudo rm -r repo_arc_so/
+git clone  git@github.com:lautaromedeiros98/repo_arc_so.git
+ls
+cd repo_arc_so/
+ls
+echo "hola" > hola.txt
+ls
+cat hola.txt 
+ls
+cd repogit
+ls
+clear
+pwd
+ls
+cd UTN-FRA_SO_onBording/
+ls
+cd ..
+clear
+ls
